@@ -1,5 +1,6 @@
 streamlit
 openai
-pydantic
 python-dotenv
+requests
+
 # 注意：这里不需要 fastapi 和 uvicorn，因为云端版直接运行
